@@ -1,4 +1,4 @@
-# 📧 Phishing Investigation – PowerCat Reverse Shell via .LNK
+# 📧 Phishing Investigation – PowerCat Reverse Shell
 
 This project documents my hands-on investigation of a simulated phishing alert from TryHackMe. The scenario involved a malicious ZIP file disguised as an invoice, ultimately leading to the discovery of a PowerShell reverse shell payload using **PowerCat**.
 
